@@ -1,1 +1,26 @@
-
+[Adblock Plus 2.0]
+! Title:🔥诗狂AD拦截_v1.0🔥
+! Homepage:QQ:1530823892
+! by:♻️霜觞寒篙♻️
+!♻️作者：霜觞寒篙♻️
+hao123.com###topbeWrapper > div.topbe-content
+hao123.com###topbeWrapper
+12580sky.com##div.wrapper-outer:first-child > div.header.clearfix:nth-child(2) > a:nth-child(2) > img
+12580sky.com###sidebar > li.box-b.mb20:first-child
+12580sky.com###sidebar > li.box-b.mb20:nth-child(2)
+12580sky.com###sidebar > li.box-b.mb20:nth-child(3)
+12580sky.com###sidebar > li.box-b.mb20:nth-child(4)
+12580sky.com###sidebar > li.box-b.mb20:nth-child(5)
+12580sky.com###sidebar > li.box-b.mb20:nth-child(6)
+##div.wrapper-outer:first-child > div.duilain.duilainleft:nth-child(9) > a:first-child > img
+##div.wrapper-outer:first-child > div.duilain.duilainleft:nth-child(9) > span:last-child
+##div.wrapper-outer:first-child > div.duilain.duilainright:nth-child(10) > a:first-child > img
+##.duilain, .duilainright
+##.leftbott_img
+##.rightbott-box
+##div.wrapper-outer:first-child > ul.c-kf:last-child > li:nth-child(2)
+##div.index:nth-child(2) > div.innerbox.clearfix > a:nth-child(5) > img
+##div.index:nth-child(2) > div.innerbox.clearfix > a:nth-child(7) > img
+##div.index:nth-child(2) > div.innerbox.clearfix > div.hf:nth-child(2) > a:last-child > img
+##div.header:first-child > div.topmain:nth-child(2) > div.innerbox.clearfix > div.yh:nth-child(2) > a:last-child > img
+##div.innerbox:nth-child(4) > div.hf:first-child > a:last-child > img
